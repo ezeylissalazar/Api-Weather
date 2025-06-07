@@ -17,7 +17,7 @@ API RESTful desarrollada con Laravel para gestionar usuarios, autenticación, co
 
 ## Tecnologías usadas
 
-- Laravel 10.x  
+- Laravel 12.x  
 - PHP 8.x  
 - PostgreSQL  
 - Laravel Sanctum  
